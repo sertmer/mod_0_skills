@@ -1,0 +1,14 @@
+Object: Clear Mechanical Pencil
+
+Attributes:
+
+Type: "Mechanical"
+Color: "clear"
+Length: 5.3
+Needs_Sharpen: false
+
+Methods:
+Test_Type (returns Mechanical or traditional) : "mechanical"
+return_color (return color as string): "clear"
+is_sharp (returns boolean of true or false): True
+sharpen (subracts 1 from length) : Nil
