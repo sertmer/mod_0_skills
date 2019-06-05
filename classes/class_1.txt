@@ -1,0 +1,14 @@
+Class: Desk
+
+Attributes:
+Color (String)
+Height (float)
+Width (float)
+Depth (float)
+Occupied (boolean)
+
+Methods:
+raise_desk (adds 1 to height)
+lower_desk (subtracts 1 from height)
+is_occupied (tests Occupied boolean true/false)
+return_color (returns color of desk as string)
