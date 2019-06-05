@@ -1,0 +1,50 @@
+-Become a Turing Student
+	-Prepare
+    	-Practice Logic Puzzles
+    		-Read LSAT Games for Dummies
+    		-Practice Example Games
+    	-Complete Try Coding Weekend
+    		-Attend Day 1
+    			-Practice With Ruby
+    		-Attend Day 2
+    			-Practice with HTML
+    			-Practice with JS
+    			-Practice with CSS
+	-Apply to Turing
+    	-Complete Logic Assesment Online
+    		-Complete 8 Logic Games
+    		-Submit Resume
+    	-Complete Interview
+    		-Travel to Turing
+    			-Locate Bike
+    			-Ride To Turing
+    				-Map Route
+    				-Navigate Traffic
+    			-Lock Bike
+    				-Remove lock from bag
+    				-Wrap Lock around frame and bike Rack
+    				-Insert Key into Lock
+    		-Meet with Interviewer
+    			-Introduce Yourself
+    				-My name is 
+    				-Hand shake
+    					-Extend Arm
+    					-Grasp hand
+    					-Move up and down
+    					-release hand
+    			-Assess Personal Alignment with Turing Values
+    			-Complete Collaborative Logic Assessment
+	-Complete Mod 0
+    	-Complete Session 1
+            -Attend Zoom Meeting
+                -log into Zoom
+                -Register Zoom meeting
+            -Complete Homework
+                -locate homework on github projects
+                -complete tasks
+                -complete survey
+    	-Complete Session 2
+    	-Complete Session 3
+    	-Complete Session 4
+    	-Complete Session 5
+    	-Complete Session 6
