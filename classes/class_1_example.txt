@@ -1,0 +1,14 @@
+Object: Grey Standing Desk
+
+Attributes:
+Color: "Grey"
+Height: 41.4 
+Width: 36.2
+Depth: 28.2
+Occupied: true
+
+Methods:
+raise_desk (adds 1 to height) : 42.4
+lower_desk (subtracts 1 from height) : 40.4
+is_occupied (tests Occupied boolean true/false) : True
+return_color (returns color of desk as string) : "Grey"
