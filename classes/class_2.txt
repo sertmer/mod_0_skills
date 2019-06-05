@@ -1,0 +1,14 @@
+Class: Pencil
+
+Attributes:
+Type (string)
+Color (string)
+Length (float)
+Needs_Sharpen (boolean)
+
+
+Methods:
+Test_Type (returns Mechanical or traditional)
+return_color (return color as string)
+is_sharp (returns boolean of true or false)
+sharpen (subracts 1 from length) 
